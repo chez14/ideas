@@ -62,3 +62,13 @@ TBA
 ## FAQ
 
 TBA
+
+## in a Nutshell
+
+Pemilih akan memilih di komputer pemilih yang sudah di authentikasi oleh panitia untuk tracking validitas.
+
+Pemilih yang tidak memiliki token akan di dibuatkan token oleh pantia. (Token seharusnya dapat ia peroleh sendiri lewat aplikasi QPU di HPnya).
+
+Pemilih yang sudah memilih sebelumnya akan mengalami conflict. Conflict hanya dapat di resolve oleh pantia.
+
+Panitia yang bertugas akan memiliki kode loginnya masing masing (lagi, digunakan untuk tracking validitas.)
