@@ -26,3 +26,9 @@ Potential Charge option:
 - SAN (Alternative Name) per line (or other)
 - Provide a Intermediate Certification for batch with notes and strict agreement (per month license).
 - Per month certificate option.
+
+## Update
+I just found the OpenCA for things like this, but there's no much update of it, and i wanted a new one of things like that. So i will still keep this idea updated.
+
+## Project Update
+I'll use NodeJS since the OpenSSL support are huge + the community are superawesome. I'll tkae my time with this.
