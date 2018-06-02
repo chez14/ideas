@@ -63,6 +63,8 @@ Oleh karena itu pentingnya penelitian ini dilakukan karena sangat amat mempengar
 
 Software terintegrasi begini menurut gw bisa dijadikan skripsi karena bobot koding yang cukup berat, knowledge terhadap teknologi yang digunakan yang cukup tinggi, judgement potensi bug di masa yang akan datang, serta rumitnya sistem integrasi yang harus di rencakan, hingga diperlukannya penelitian semacem ini.
 
+OH YAAMPUN, BAHKAN [SEEDING ADA ALGORITMANYA](https://en.wikipedia.org/wiki/Glossary_of_BitTorrent_terms#Super-seeding)
+
 ### Rencana
 
 Dari sini gw berencana ngelakuin penelitian ini untuk 1 ruangan (kemudian 1 lab) selama lab sedang masa liburan (karena SP). Dari situ gw bakal butuh bikin prototyping.
