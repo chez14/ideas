@@ -4,8 +4,9 @@ Some ideas are for general purpose, some don't. So there's a specific meaning be
 
 | Prefix | Detail                                        |
 | ------ | --------------------------------------------- |
-| P      | Specific Project (i've forgotten the meaning) |
+| P      | Research (Penelitian), Specific Project       |
 | G      | General Purpose                               |
+| RS     | Research for Study (Intended for skripsi stuffs) |
 
 Cheers,
 
