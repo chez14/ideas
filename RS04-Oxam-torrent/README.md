@@ -9,6 +9,7 @@ So dari sistem ini kelemahannya:
 - Nggak ada yang cek error (kecuali nanti yang mau ujian)
 - Permission problem (redacted for the sake of our security concerns)
 - Form pengumpulan file ujian 
+- Pengiriman jawaban yang mesti manual
 
 So dari beberapa poin diatas, gw ngusulin buat pake sistem yang terintegrasi untuk tugas-tugas berikut:
 
@@ -22,7 +23,7 @@ So dari beberapa poin diatas, gw ngusulin buat pake sistem yang terintegrasi unt
 - Permission problem (redacted)
 - Pengiriman otomatis
 
-Dari yang diatas, yang major beberapa udah di perbaiki, dan yang jadi problem utamanya itu pengiriman file ujian. (well kalo bisa gw bakal bikin semua jadi 1 benda)
+Dari yang diatas, yang minor dan merepotkan beberapa udah diperbaiki, dan yang jadi problem utamanya itu pengiriman file ujian. (well kalo bisa gw bakal bikin semua jadi 1 benda)
 
 Dari Analisis diatas, gw nemu caranya, pake torrent. Nah dari situ kita bakal butuh konfigurasi sbb:
 
